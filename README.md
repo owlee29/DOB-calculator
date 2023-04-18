@@ -2,7 +2,7 @@
 
 What was used:
 
-Classes
-Text Views
-Buttons
+Classes,
+Text Views,
+Buttons,
 Date pickers
